@@ -1,4 +1,6 @@
-# Fizz-Buzz
+# Catalogo Mini-Codigos
+
+# 1.- Fizz-Buzz: Fizz cuando un número es múltiplo de 3, Buzz cuando un número es múltiplo de 5.
 
 /*
  * Escribe un programa que muestre por consola (con un print) los
@@ -8,3 +10,5 @@
  * - Múltiplos de 5 por la palabra "buzz".
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  */
+
+#-------------------------------------------------------------------------------------------------------
