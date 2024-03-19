@@ -1,4 +1,4 @@
-# Catalogo Mini-Codigos
+# Catalogo Mini-Codigos en Python
 
 # 1.- Fizz-Buzz: Print Fizz cuando un número es múltiplo de 3, Print Buzz cuando un número es múltiplo de 5.
 
